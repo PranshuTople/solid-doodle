@@ -56,15 +56,14 @@ Project Link:
 		          https://github.com/aniket-spidey/MLH
 
 =======
-\n\n
+<br /><br />
 **Team Name:** GoldDi99er$
-**Team Members:**
-\nPranshu Tople
-\nPallavi Saha
-\nShubham Nandi
-\n**Project Description:**
-We tried creating an internet bot to buy and sell digital gold on Paytm Gold in the best possible buying and selling prices so as to make you money without you doing anything. 
-\n             
+<br />**Team Members:** Pranshu Tople, Pallavi Saha, Shubham Nandi
+<br />**Project Description:**
+<br />We tried creating an internet bot to buy and sell digital gold on Paytm Gold in the best possible buying and selling prices so as to make you money without you doing anything. 
+<br />         
 **Project Link:**
-\nhttps://github.com/PranshuTople/GoldDigger
-\n\n=======
+<br />https://github.com/PranshuTople/GoldDigger
+<br /><br />
+
+=======
